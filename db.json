@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "irshad ali",
+      "email": "irshadali@gmail.com",
+      "contact": "789456123",
+      "address": "india",
+      "id": 2
+    },
+    {
+      "name": "vinay",
+      "email": "vinay@gmail",
+      "contact": "564799522",
+      "address": "andhra pradesh",
+      "id": 3
+    }
+  ]
+}
